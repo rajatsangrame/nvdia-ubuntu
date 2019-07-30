@@ -2,19 +2,21 @@
 
 This script will install the following things on your system :-
 
+Anaconda3-5.0.1
 
-> Anaconda3-5.0.1
-> Nvidia Driver 410/390 
-> Cuda 9.0
-> CudNN 7.1.4 for CUDA 9.0
+Nvidia Driver 410/390 
+
+Cuda 9.0
+
+CudNN 7.1.4 for CUDA 9.0
 
 # Steps to run the script 
 
 Run the following commands on the system
 
->>> git clone https://github.com/rajatsangrame/nvdia-ubuntu.git
+> git clone https://github.com/rajatsangrame/nvdia-ubuntu.git
 
->>> bash ~/setup-tensorflow-gpu/setup-nvidia-xxx.sh
+> bash ~/setup-tensorflow-gpu/setup-nvidia-xxx.sh
 
 When asked for the CudNN path go to the following link, perform the following step to get the download link
 
