@@ -1,4 +1,4 @@
-# Set up Nvida Ubuntu GPU
+# Set up Nvida Ubuntu
 
 This script will install the following things on your system :-
 
