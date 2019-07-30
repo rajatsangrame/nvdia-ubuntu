@@ -1,12 +1,12 @@
-# Set up Tensorflow GPU
+# Set up Nvida Ubuntu GPU
 
 This script will install the following things on your system :-
 
 
-=> Anaconda3-5.0.1
-=> Nvidia Driver 410/390 
-=> Cuda 9.0
-=> CudNN 7.1.4 for CUDA 9.0
+> Anaconda3-5.0.1
+> Nvidia Driver 410/390 
+> Cuda 9.0
+> CudNN 7.1.4 for CUDA 9.0
 
 # Steps to run the script 
 
